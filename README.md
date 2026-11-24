@@ -14,7 +14,8 @@ Hardware teardown, micro-soldering battery replacement, and LCD fault isolation 
 3. **Battery Reflow:** Aligned the new battery flex cable over the three board eyelets, anchored the center pad first to lock alignment, and soldered the outer positive/negative leads cleanly.
 4. **Board Verification:** Confirmed logic board power-up, storage spin-up, and click-wheel audio response prior to final reassembly.
 
-![Logic Board Pad Prep and Battery Reflow](assets/01-board-pad-cleanup.jpg)
+<img width="2160" height="2160" alt="image" src="https://github.com/user-attachments/assets/92d8c378-9979-4ca5-9cbb-cb4429b7983e" />
+<img width="2160" height="2160" alt="image" src="https://github.com/user-attachments/assets/62dc5ebb-aea0-4f9f-beca-d2e724d5306a" />
 
 ---
 
@@ -23,7 +24,7 @@ Hardware teardown, micro-soldering battery replacement, and LCD fault isolation 
 2. **LCD Replacement:** Unlatched the display ZIF connector, removed the fractured inner LCD panel, seated the replacement display assembly straight into the connector, and locked the retention tab.
 3. **Final Verification:** Verified full UI rendering, backlight uniformity, click-wheel navigation, and battery charging.
 
-![Final Restored iPod Nano](assets/04-final-working-build.jpg)
+<img width="2160" height="2160" alt="image" src="https://github.com/user-attachments/assets/12f03020-2417-4d9a-86d8-3a658351e2ca" />
 
 ---
 
